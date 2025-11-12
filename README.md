@@ -24,8 +24,8 @@ Map Visualization	Geographic view of listing locations with price indicators
 
 Tool	Purpose
 
-Power BI Desktop	Data visualization and dashboard design
+Power BI Desktop -	Data visualization and dashboard design
 
-Pandas (Python) / optional	Data cleaning before Power BI import
+Pandas (Python) -	Data cleaning before Power BI import
 
-CSV / Excel / external dataset	Source dataset
+
